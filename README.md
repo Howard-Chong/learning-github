@@ -1,4 +1,4 @@
-# learning-github
+
 # My Github journey
 This respository is to learn how to use Git and Github
 
