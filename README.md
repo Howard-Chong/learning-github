@@ -10,3 +10,7 @@ This respository is to learn how to use Git and Github
 # Learning progress
 -Setup Git and Github
 -Learn Git status, add, commit, push
+
+# Build confidence with GIT
+-Learn collaboration workflow
+-Prepare for real world project
