@@ -18,3 +18,6 @@ This respository is to learn how to use Git and Github
 
 # Cherry pick practice
 - Important apple
+
+# Tag this commit
+- Stable version that need to be tag
